@@ -5,7 +5,7 @@ Official repository for [**Event-based Mosaicing Bundle Adjustment**](https://ar
 [Video](https://youtu.be/69dvoqSKCYg) | [Dataset](https://github.com/tub-rip/ECRot)
 </h2>
 
-[![Event-based Mosaicing Bundle Adjustment](docs/img/video_cover.jpg)](https://youtu.be/LFsDjS1yrG8)
+[![Event-based Mosaicing Bundle Adjustment](docs/img/video_cover.jpg)](https://youtu.be/69dvoqSKCYg)
 
 
 ## Citation
