@@ -1,8 +1,8 @@
 # Event-based Mosaicing Bundle Adjustment
-Official repository for [**Event-based Mosaicing Bundle Adjustment**](https://arxiv.org/pdf/2403.08119), **ECCV 2024 paper**, by [Shuang Guo](https://www.linkedin.com/in/shuang-guo-00b664266) and [Guillermo Gallego](https://sites.google.com/view/guillermogallego).
+Official repository for [**Event-based Mosaicing Bundle Adjustment**](https://arxiv.org/abs/2409.07365), **ECCV 2024 paper**, by [Shuang Guo](https://www.linkedin.com/in/shuang-guo-00b664266) and [Guillermo Gallego](https://sites.google.com/view/guillermogallego).
 <h2 align="left">
 
-[Video](https://youtu.be/LFsDjS1yrG8) | [Dataset](https://github.com/tub-rip/ECRot)
+[Video](https://youtu.be/69dvoqSKCYg) | [Dataset](https://github.com/tub-rip/ECRot)
 </h2>
 
 [![Event-based Mosaicing Bundle Adjustment](docs/img/video_cover.jpg)](https://youtu.be/LFsDjS1yrG8)
