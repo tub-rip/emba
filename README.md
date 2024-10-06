@@ -2,7 +2,7 @@
 Official repository for [**Event-based Mosaicing Bundle Adjustment**](https://arxiv.org/abs/2409.07365), **ECCV 2024 paper**, by [Shuang Guo](https://shuang1997.github.io) and [Guillermo Gallego](https://sites.google.com/view/guillermogallego).
 <h2 align="left">
 
-[PDF](https://arxiv.org/pdf/2409.07365) | [Poster](docs/img/2024_ECCV_EMBA_poster.pdf) | [Video](https://youtu.be/69dvoqSKCYg) | [Dataset](https://github.com/tub-rip/ECRot) 
+[PDF](https://arxiv.org/pdf/2409.07365) | [Poster](docs/2024_ECCV_EMBA_poster.pdf) | [Video](https://youtu.be/69dvoqSKCYg) | [Dataset](https://github.com/tub-rip/ECRot) 
 </h2>
 
 [![Event-based Mosaicing Bundle Adjustment](docs/img/video_cover.jpg)](https://youtu.be/69dvoqSKCYg)
