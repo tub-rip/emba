@@ -17,8 +17,8 @@ If you use this work in your research, please cite it as follows:
   author        = {Shuang Guo and Guillermo Gallego},
   title         = {Event-based Mosaicing Bundle Adjustment},
   booktitle     = {European Conference on Computer Vision (ECCV)},
-  pages         = {1--14},
-  doi           = {},
+  pages         = {479--496},
+  doi           = {10.1007/978-3-031-72624-8_27},
   year          = 2024
 }
 ```
