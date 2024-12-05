@@ -12,6 +12,10 @@ Install additional libraries:
 
     sudo apt install ros-noetic-image-geometry ros-noetic-camera-info-manager ros-noetic-image-view
 
+The Poisson solver used is from [this page](https://kluge.in-chemnitz.de/opensource/poisson_pde/). It is already copied within this repository. It requires the [FFTW library](https://launchpad.net/ubuntu/+source/fftw3):
+
+    sudo apt install libfftw3-dev
+
 Create a new catkin workspace (e.g., `emba_ws`) if needed:
 
     mkdir -p ~/emba_ws/src && cd ~/emba_ws/
